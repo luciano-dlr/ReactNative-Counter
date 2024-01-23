@@ -43,7 +43,4 @@ const styles = StyleSheet.create({
         fontSize: 40,
         top: -15
     },
-    
 })
-
-
